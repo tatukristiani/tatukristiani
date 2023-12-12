@@ -9,4 +9,4 @@ I never quite got started with my coding career until I applied to Metropolia in
 *   🌍  I'm based in Finland, Vantaa
 *   🖥️  See my portfolio at [http://www.tatukristian.fi](http://www.tatukristian.fi) (TBA)
 *   ✉️  You can contact me at [tatukristian@gmail.com](mailto:tatukristian@gmail.com)
-*   🧠  I'm learning .NET, Azure & improving my React knowledge
+*   🧠  I'm currently learning .NET, Azure & improving my React knowledge
