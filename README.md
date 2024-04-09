@@ -6,5 +6,5 @@ Software Engineer From Finland
 
 Passionate programmer with a keen eye to details
 *   🌍  Based in Finland, Vantaa
-*   🧠  Currently learning .NET, Azure, C# and React
+*   🧠  Currently working as an Integration Developer at Frends Technology
 *   ✉️  You can contact me at [tatukristian@gmail.com](mailto:tatukristian@gmail.com)
