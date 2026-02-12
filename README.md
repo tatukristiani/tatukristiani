@@ -7,5 +7,5 @@ Software Engineer From Finland
 Passionate programmer with a keen eye to details
 *   🌍  Based in Finland, Vantaa
 *   🧠  Currently working as an Integration Developer at Frends Technology
-*   🎁  Project in progress --> Genapi - Software that generates an API + Database with user specifications
+*   🎁  Project in progress --> Software that generates an API + Database with user specifications and could also be used as an OpenAPI specification diff tool
 *   ✉️  You can contact me at [tatukristian@gmail.com](mailto:tatukristian@gmail.com)
